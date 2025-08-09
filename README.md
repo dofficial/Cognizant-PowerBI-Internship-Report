@@ -1,9 +1,9 @@
-# Cognizant Power BI Internship Project
+# Cognifyz Power BI Internship Project
 
 ![Dashboard Screenshot](https://github.com/dofficial/Cognizant-PowerBI-Internship-Report/blob/main/Cognifyz_Internship_PowerBI_Report_Dipra-images.jpg)
 
 ## 📊 Overview
-This repository contains my completed **Power BI Internship Project** for **Cognizant**, covering **Tasks 1 to 7**.  
+This repository contains my completed **Power BI Internship Project** for **Cognifyz**, covering **Tasks 1 to 7**.  
 The project involves data exploration, gender-based analysis, objective analysis, investment duration & monitoring frequency, reasons for investment, and sources of information — all combined into a **final insights dashboard**.
 
 ## 📂 Repository Contents
